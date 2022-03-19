@@ -2,7 +2,6 @@
 *This has only been tested on Ubuntu 20.04 LTS, mileage on other operating systems may vary* 
 ## Dependancies
 * pycryptodome
-* pickle
 ## Project Structure
 
 To see how the encryption works, look in ``LWElib.sage``. This is where the real work is done.  
