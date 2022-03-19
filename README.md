@@ -41,10 +41,3 @@ Display help message:
 ```
 ./LWEconsole -h 
 ```
-
-### Modifying LWElib.py
-
-If you wish to make changes to LWElib.py, first make your changes in LWElib.sage, and then run this command:
-```
-sage --preparse LWElib.sage && mv LWElib.sage.py LWElib.py
-```
